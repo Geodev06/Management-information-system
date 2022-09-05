@@ -1,0 +1,65 @@
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.exe.config
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.exe
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.pdb
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Form1.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Properties.Resources.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.csproj.GenerateResource.Cache
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.exe
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.pdb
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Alert.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.MainForm.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Account_UI.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\bin\Debug\MySqlBackup.dll
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Custom_messageBox.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Reset_UI.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Manage_Course.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Inquire_Students.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Manage_Student.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Update.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.csprojResolveAssemblyReference.cache
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Delete.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.View.resources
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\bin\Debug\DocX.dll
+C:\Users\sarah\Desktop\REMED\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.ChangePass.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.exe.config
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.exe
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.pdb
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.exe
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.pdb
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.csprojResolveAssemblyReference.cache
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Account_UI.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Alert.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.ChangePass.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Custom_messageBox.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Delete.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Form1.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Inquire_Students.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.MainForm.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Manage_Course.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Manage_Student.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Properties.Resources.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Reset_UI.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Update.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.View.resources
+C:\Users\sarah\Desktop\FILES\REMEDia\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.csproj.GenerateResource.Cache
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.exe.config
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.exe
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.pdb
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.exe
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\bin\Debug\MIS_ENTREP.pdb
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.csprojResolveAssemblyReference.cache
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Account_UI.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Alert.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.ChangePass.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Custom_messageBox.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Delete.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Form1.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Inquire_Students.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.MainForm.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Manage_Course.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Manage_Student.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Properties.Resources.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Reset_UI.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.Update.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.View.resources
+C:\Users\sarah\Desktop\AGNOTE AGEO V ICT201-A\CSharp-ILS\MIS_ENTREP\MIS_ENTREP\obj\Debug\MIS_ENTREP.csproj.GenerateResource.Cache
